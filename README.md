@@ -58,7 +58,7 @@ Tùy thuộc vào script bạn đang chạy:
 
 ### Bước 5: Hậu kiểm (Post-Processing)
 
-* **Lưu ý quan trọng từ Chuyên gia:** Auto-labeling không bao giờ chính xác 100%. Bạn nên import các file gán nhãn tự động này vào các phần mềm quản lý như **CVAT**, **Roboflow**, hoặc **LabelImg/LabelMe** để con người review và chỉnh sửa lại các điểm lỗi trước khi đưa vào huấn luyện mô hình thực tế.
+* **Lưu ý quan trọng:** Auto-labeling không bao giờ chính xác 100%. Bạn nên import các file gán nhãn tự động này vào các phần mềm quản lý như **CVAT**, **Roboflow**, hoặc **LabelImg/LabelMe** để con người review và chỉnh sửa lại các điểm lỗi trước khi đưa vào huấn luyện mô hình thực tế.
 
 ---
 
@@ -72,4 +72,4 @@ Tùy thuộc vào script bạn đang chạy:
 
 ## 🤝 Đóng góp
 
-Nếu bạn gặp vấn đề, bug, hoặc muốn mở rộng thêm tính năng, hãy thoải mái mở Issue hoặc tạo Pull Request. Chúng tôi luôn hoan nghênh những đóng góp từ cộng đồng Computer Vision!
+Nếu bạn gặp vấn đề, bug, hoặc muốn mở rộng thêm tính năng, hãy thoải mái mở Issue hoặc tạo Pull Request. Mình luôn hoan nghênh những đóng góp từ cộng đồng!
